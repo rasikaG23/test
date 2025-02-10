@@ -1,3 +1,4 @@
+package Java_practice.if_else;
 import java.util.Scanner;
 class Main {
     public static void main(String[] args) {
